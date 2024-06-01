@@ -21,8 +21,7 @@ This is a landing page for Nike created using React and Tailwind CSS. The projec
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/nike-landing-page.git
-   cd nike-landing-page
+   https://github.com/lokendra-sahare/nike-landing-page-using-react-and-tailwindCSS.git
 
 2. ** npm install **
 
